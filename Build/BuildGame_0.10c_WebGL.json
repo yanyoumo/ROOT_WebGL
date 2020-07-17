@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ROOT_demo",
+"productVersion": "0.1",
+"dataUrl": "BuildGame_0.10c_WebGL.data.unityweb",
+"wasmCodeUrl": "BuildGame_0.10c_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "BuildGame_0.10c_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
